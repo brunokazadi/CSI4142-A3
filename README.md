@@ -1,4 +1,4 @@
-```markdown
+
 # CSI4142 Assignment 3: Predictive Analysis
 
 This repository contains the Jupyter Notebooks for Assignment 3 of CSI4142 Fundamentals of Data Science. The project involves two separate empirical studies:
@@ -72,8 +72,8 @@ Both notebooks follow an end-to-end machine learning pipeline including data cle
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/brunokazadi/CSI4142-A3.git
+   cd CSI4142-A3
    ```
 
 2. **Install Dependencies:**
